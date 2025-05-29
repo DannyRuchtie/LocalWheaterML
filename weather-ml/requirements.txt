@@ -1,4 +1,9 @@
 meteostat
 pandas
 scikit-learn
-numpy 
+numpy
+fastapi
+uvicorn[standard]
+dash
+dash-bootstrap-components
+requests 
